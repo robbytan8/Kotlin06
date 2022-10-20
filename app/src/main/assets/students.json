@@ -1,0 +1,23 @@
+[
+  {
+    "id": "2072001",
+    "first_name": "John",
+    "last_name": "Doe",
+    "department": "Informatics",
+    "email": "2072001@student.informatics.google.edu"
+  },
+  {
+    "id": "2072002",
+    "first_name": "Susan",
+    "last_name": "Bones",
+    "department": "Informatics",
+    "email": "2072002@student.informatics.google.edu"
+  },
+  {
+    "id": "2072003",
+    "first_name": "Robby",
+    "last_name": "Tan",
+    "department": "Informatics",
+    "email": "2072003@student.informatics.google.edu"
+  }
+]
