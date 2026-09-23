@@ -34,7 +34,7 @@ class NameDataAdapter(var names: ArrayList<String>) : Adapter<NameDataAdapter.Na
         this.itemDataClicked = itemDataClicked
     }
 
-    inner class NameViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
+    class NameViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         private var tvName: TextView
 
         init {

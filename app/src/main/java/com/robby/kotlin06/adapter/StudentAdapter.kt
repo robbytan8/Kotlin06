@@ -28,7 +28,7 @@ class StudentAdapter(private val students: ArrayList<Student>) :
         return students.size
     }
 
-    inner class StudentViewHolder(itemView: View) : ViewHolder(itemView) {
+    class StudentViewHolder(itemView: View) : ViewHolder(itemView) {
 
         private val binding: StudentItemBinding
 
